@@ -19,16 +19,7 @@
   </a>
 </p>
 
-<br/>
 
-<div align="center">
-  <!-- TROPHIES -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChinmayaBiswal7&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=20" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <h3>⚡ Ｔｅｃｈ Ａｒｓｅｎａｌ</h3>
@@ -44,7 +35,7 @@
 <div align="center">
   <h3>📊 ＧｉｔＨｕｂ Ａｎａｌｙｔｉｃｓ ＆ Ｓｔａｔｕｓ</h3>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayaBiswal7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00F0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChinmayaBiswal7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00F0FF" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaBiswal7&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" width="48%" />
 </div>
 
