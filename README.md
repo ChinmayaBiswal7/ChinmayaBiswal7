@@ -1,16 +1,91 @@
-## Hi there 👋
+<!-- BEHOLD THE GOD-TIER PROFILE -->
 
-<!--
-**ChinmayaBiswal7/ChinmayaBiswal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=250&section=header&text=Chinmaya%20Biswal&fontSize=80&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Visionary&descAlignY=55&descAlign=50" width="100%"/>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I+build+Next-Level+Experiences;Let's+push+the+boundaries+of+the+web;Welcome+to+my+God-Tier+Workspace!" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Architecting digital masterpieces from <b>Bhubaneswar, India</b> 🇮🇳</em>
+</p>
+
+<p align="center">
+  <a href="mailto:chinmayabiswal777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="https://github.com/ChinmayaBiswal7">
+    <img src="https://img.shields.io/badge/GitHub-Connect-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <!-- TROPHIES -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChinmayaBiswal7&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=20" alt="Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ Ｔｅｃｈ Ａｒｓｅｎａｌ</h3>
+  <br/>
+  <!-- SKILLS ICONS -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,java&perline=15" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind&perline=15" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,gcp&perline=15" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <h3>📊 ＧｉｔＨｕｂ Ａｎａｌｙｔｉｃｓ ＆ Ｓｔａｔｕｓ</h3>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayaBiswal7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00F0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaBiswal7&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayaBiswal7&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <h3>🏆 Ｆｅａｔｕｒｅｄ Ｐｒｏｊｅｃｔｓ</h3>
+  <br/>
+</div>
+
+<table width="100%" style="border:none;">
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/ChinmayaBiswal7/smart-traffic-bhubaneswar" style="color:#00F0FF; text-decoration:none;">🚥 Smart Traffic Bhubaneswar</a></h3>
+      <p>AI-powered real-time traffic monitoring dashboard with 100 simulated intersections & manual override capabilities.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/ChinmayaBiswal7/campus-cravings" style="color:#8A2BE2; text-decoration:none;">🍔 Campus Cravings</a></h3>
+      <p>Real-time cafe inventory and billing system connecting admins and students, featuring a modern glass UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/ChinmayaBiswal7/GammersGames" style="color:#8A2BE2; text-decoration:none;">🎮 GammersGames</a></h3>
+      <p>High-performance real-time PvP gaming website powered by Firebase.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/ChinmayaBiswal7/sonar-rock-vs-mine-classification" style="color:#00F0FF; text-decoration:none;">🌊 Sonar Classifier</a></h3>
+      <p>Advanced Machine Learning pipeline utilizing Logistic Regression for classifying sonar signals.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=100&section=footer&text=Turning%20Coffee%20Into%20Code&fontSize=20&fontAlignY=40" width="100%" />
+
+<!-- END OF GOD-TIER PROFILE -->
