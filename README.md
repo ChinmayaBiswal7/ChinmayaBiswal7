@@ -55,8 +55,8 @@
 <table width="100%" style="border:none;">
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/ChinmayaBiswal7/smart-traffic-bhubaneswar" style="color:#00F0FF; text-decoration:none;">🚥 Smart Traffic Bhubaneswar</a></h3>
-      <p>AI-powered real-time traffic monitoring dashboard with 100 simulated intersections & manual override capabilities.</p>
+      <h3><a href="https://github.com/ChinmayaBiswal7/My-Portfolio" style="color:#00F0FF; text-decoration:none;">✨ My Portfolio</a></h3>
+      <p>A dynamic React bento-style portfolio featuring custom spring physics animations and GPU transforms.</p>
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/ChinmayaBiswal7/campus-cravings" style="color:#8A2BE2; text-decoration:none;">🍔 Campus Cravings</a></h3>
@@ -69,8 +69,8 @@
       <p>High-performance real-time PvP gaming website powered by Firebase.</p>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/ChinmayaBiswal7/sonar-rock-vs-mine-classification" style="color:#00F0FF; text-decoration:none;">🌊 Sonar Classifier</a></h3>
-      <p>Advanced Machine Learning pipeline utilizing Logistic Regression for classifying sonar signals.</p>
+      <h3><a href="https://github.com/ChinmayaBiswal7" style="color:#00F0FF; text-decoration:none;">🚌 Real-Time Bus Tracking</a></h3>
+      <p>My best project yet! Advanced real-time bus tracking system with live location sync and clean UI.</p>
     </td>
   </tr>
 </table>
