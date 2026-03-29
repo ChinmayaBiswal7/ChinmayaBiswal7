@@ -1,6 +1,6 @@
 <!-- BEHOLD THE GOD-TIER PROFILE -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=250&section=header&text=Chinmaya%20Biswal&fontSize=80&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Visionary&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=250&section=header&text=Chinmaya%20Biswal&fontSize=80&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Visionary&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I+build+Next-Level+Experiences;Let's+push+the+boundaries+of+the+web;Welcome+to+my+God-Tier+Workspace!" alt="Typing SVG" />
@@ -77,6 +77,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=100&section=footer&text=Turning%20Coffee%20Into%20Code&fontSize=20&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=100&section=footer&text=Turning%20Coffee%20Into%20Code&fontSize=20&fontAlignY=40&fontColor=ffffff" width="100%" />
 
 <!-- END OF GOD-TIER PROFILE -->
